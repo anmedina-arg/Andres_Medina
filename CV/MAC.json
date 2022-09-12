@@ -1,0 +1,76 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Andrés",
+      "surnames": "Medina",
+      "title": "Fullstack developer  ||  Ingeniero Industrial",
+      "description": "Luego de +12 años trabajando en la industria alimenticia, me he decidido aprender cosas nuevas, entonces comencé con la programación. Se que voy a sumar en cualquier equipo. Soy creativo e innovador, siempre dispuesto a seguir aprendiendo de los demás y al desarrollo del trabajo en equipo. Me gusta crear soluciones lógicas. De mi experiencia como ingeniero industrial, tengo conocimientos de indicadores duros y habilidades blandas desarrolladas, como trabajo en equipo, liderazgo, proactividad, mejora contínua.",
+      "avatar": {
+        "alt": "me.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/12/e96cf73b-6f48-4557-9ba1-fc2eff2cf465_me.jpeg"
+      },
+      "location": {
+        "country": "Argentina"
+      }
+    }
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sequelize",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      }
+    ]
+  }
+}
