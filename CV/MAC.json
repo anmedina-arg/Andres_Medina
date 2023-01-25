@@ -25,6 +25,57 @@
         "organization": {
           "name": "Apes International",
           "image": {
+            "alt": "LOGO (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/25/86e67cda-30e6-47d4-95a7-f3d06a3f5799_logo-(1).png"
+          },
+          "URL": "https://thegallery.live"
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2022-12-01",
+            "challenges": [
+              {
+                "description": "Desarrollo y producción del sitio thegallery.live, un proyecto de Apes International. He generado una hermosa gallería de NFT´s a partir de un proyecto Figma, trabajando en equipo con el diseñador de arte de Apes. Actualmente estamos desarrollando la versión mobile del sitio. También me encargué de poner la página en producción trabajando con técnicos del servicio de hosting."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Apes International",
+          "image": {
             "alt": "APE-ICON.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/25/5219ac87-b2e2-4424-b4eb-7cfbfb5ce9a0_ape-icon.png"
           },
