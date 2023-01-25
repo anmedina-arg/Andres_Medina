@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,20 +15,72 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/12/e96cf73b-6f48-4557-9ba1-fc2eff2cf465_me.jpeg"
       },
       "location": {
-        "country": "Argentina",
-        "notes": "Autocompleted using Google Maps API"
+        "country": "Argentina"
       }
     }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Apes International",
+          "image": {
+            "alt": "APE-ICON.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/25/5219ac87-b2e2-4424-b4eb-7cfbfb5ce9a0_ape-icon.png"
+          },
+          "URL": "https://apesgroup.net"
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "De manera freelance, estoy trabajando con una empresa de blockchain gamming, apes international. He desarrollado y puesto en producción la pagina oficial de la empresa: https://apesgroup.net y https://thegallery.live, que es un proyecto de ellos. Actualmente estoy trabajando haciendo updates y mantenimiento de otros juegos, como catsanddog.io que también es un proyecto de ellos"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -83,7 +135,6 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
